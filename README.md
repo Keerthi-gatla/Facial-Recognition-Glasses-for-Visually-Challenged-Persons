@@ -69,7 +69,7 @@ Facial-Recognition-Glasses/
    ```bash
    git clone https://github.com/Keerthi-gatla/Facial-Recognition-Glasses-for-Visually-Challenged-Persons.git
    cd Facial-Recognition-Glasses-for-Visually-Challenged-Persons
-````
+```
 
 2. Install dependencies:
 
